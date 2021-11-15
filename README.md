@@ -5,3 +5,4 @@ Coursework 3 of the Adaptive Signal Processing course at ITBA. Adaptive array pr
 # Directory structure
 * **assignment/**: Coursework assignment
 * **notebook/**: Jupyter notebooks
+* **resource/**: Resources
