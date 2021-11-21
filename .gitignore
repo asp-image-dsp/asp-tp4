@@ -4,3 +4,6 @@
 
 # Ignore .vscode folder
 .vscode
+
+# Ignore macOS directory files
+.DS_Store
